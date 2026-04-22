@@ -1,0 +1,3 @@
+public enum EstadoNotificacion {
+    PENDIENTE, ENVIADA, FALLIDA, LEIDA
+}
